@@ -1,4 +1,4 @@
-Command on terraform:
+# Command on terraform:
 ```shell
 # Refresh service-account's auth-token for this session
 gcloud auth application-default login
@@ -20,4 +20,4 @@ terraform apply
 terraform destroy
 ```
 
-# You must check at the uniqe id (use your own)
+You must check at the uniqe id (use your own)
