@@ -1,0 +1,1 @@
+SELECT * FROM ny_taxi.yellow_data_taxi_cab LIMIT 10
